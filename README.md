@@ -55,4 +55,7 @@ I struggled a lot on standardizing my date column after trying different approac
     plt.tight_layout()
     plt.savefig('output/avg_temperature_per_city.png')
     plt.close()
-    
+
+  ## Average Temperature per city
+  
+![avg_temperature_per_city](https://github.com/user-attachments/assets/2d2a89a8-6802-4164-ab4d-1faf6f766c52)
